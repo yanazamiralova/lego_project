@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    width: 1440px;
+}
+
+.banner{
+    width: 1440px;
+    height: 346px;
+    background-color:  #FEE667;
+
+}
+.logo{
+    margin-top: 30px;
+    margin-left: 141px;   
+}
+
+.lego{
+    float: right;
+    padding-top: 80px;
+    padding-right: 114px;
+}
+
+.banner p{
+    color: #2590DD;
+  
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p span{
+    font-size: 60px;
+}
+
+.text{
+    margin-top: 40px;
+    padding-left: 136px;
+}
+.text2{
+    width: 500px;
+    margin-top: 14px;
+    padding-left: 136px;
+}
+
+header ul li{
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 15px;
+    font-size: 24px;
+}
+header ul{
+    padding-top:29px ;
+    margin-left: 200px;
+}
+header{
+    width: 1440px;
+    height: 87px;
+    background-color:#FFCA10 ;
+    
+}
+
+.mask{
+    width: 1191px;
+    height: 193px;
+    margin-left: 128px;
+    border: 1px solid #ACAAAA;
+    padding: 20px;
+    margin-top: 31px;
+}
+.mask h4{
+    margin-bottom: 18px;
+    font-size: 24px;
+    font-weight: normal;
+}
+.mask p{
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.mask p span {
+    font-size: 18px;
+    color: #1A01B7;
+}
+
+footer{
+    width: 1440px;
+    height: 74px;
+    background-color:#FFCA10 ;
+    margin-top: 31px;
+}
+footer p{
+    padding-left: 500px;
+    font-size: 18px;
+    padding-top: 24px;
+}
