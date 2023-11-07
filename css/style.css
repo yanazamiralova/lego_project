@@ -131,4 +131,11 @@ button {
     padding: 15px;
     width: 235px;
     margin: 10px 0;
+    text-transform: uppercase;
+}
+
+.main-form input, textarea{
+    font-size: 22pt;
+    margin-bottom: 20px;
+    padding: 10px;
 }
