@@ -129,6 +129,13 @@ button {
     padding: 15px;
     width: 235px;
     margin: 10px 0;
+    text-transform: uppercase;
+}
+
+.main-form input, textarea{
+    font-size: 22pt;
+    margin-bottom: 20px;
+    padding: 10px;
 }
 
 .exclusiv h2{
@@ -177,4 +184,11 @@ button {
 .accessorles__item p:nth-child(3){
     font-size: 22px;
     font-weight: 700;
+}
+
+
+.main-form input, textarea{
+    font-size: 22pt;
+    margin-bottom: 20px;
+    padding: 10px;
 }
