@@ -132,3 +132,26 @@ button {
     width: 235px;
     margin: 10px 0;
 }
+
+.exclusiv h2{
+    margin-left:130px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.exclusiv__items{
+    display: flex;
+    justify-content: space-between;
+    width: 1191px;
+    margin: 0 auto;
+}
+.exclusiv__item {
+    width: 265px;
+    background-color: #F1F1F1;
+    padding: 10px;
+}
+
+.exclusiv__item p:nth-child(3){
+    font-size: 22px;
+    font-weight: 700;
+}
